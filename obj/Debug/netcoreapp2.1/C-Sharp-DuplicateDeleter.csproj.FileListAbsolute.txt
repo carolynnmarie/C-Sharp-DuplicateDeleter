@@ -1,0 +1,11 @@
+/Users/carolynn/dev/C-Sharp/C-Sharp-DuplicateDeleter/bin/Debug/netcoreapp2.1/C-Sharp-DuplicateDeleter.deps.json
+/Users/carolynn/dev/C-Sharp/C-Sharp-DuplicateDeleter/bin/Debug/netcoreapp2.1/C-Sharp-DuplicateDeleter.runtimeconfig.json
+/Users/carolynn/dev/C-Sharp/C-Sharp-DuplicateDeleter/bin/Debug/netcoreapp2.1/C-Sharp-DuplicateDeleter.runtimeconfig.dev.json
+/Users/carolynn/dev/C-Sharp/C-Sharp-DuplicateDeleter/bin/Debug/netcoreapp2.1/C-Sharp-DuplicateDeleter.dll
+/Users/carolynn/dev/C-Sharp/C-Sharp-DuplicateDeleter/bin/Debug/netcoreapp2.1/C-Sharp-DuplicateDeleter.pdb
+/Users/carolynn/dev/C-Sharp/C-Sharp-DuplicateDeleter/obj/Debug/netcoreapp2.1/C-Sharp-DuplicateDeleter.csprojAssemblyReference.cache
+/Users/carolynn/dev/C-Sharp/C-Sharp-DuplicateDeleter/obj/Debug/netcoreapp2.1/C-Sharp-DuplicateDeleter.csproj.CoreCompileInputs.cache
+/Users/carolynn/dev/C-Sharp/C-Sharp-DuplicateDeleter/obj/Debug/netcoreapp2.1/C-Sharp-DuplicateDeleter.AssemblyInfoInputs.cache
+/Users/carolynn/dev/C-Sharp/C-Sharp-DuplicateDeleter/obj/Debug/netcoreapp2.1/C-Sharp-DuplicateDeleter.AssemblyInfo.cs
+/Users/carolynn/dev/C-Sharp/C-Sharp-DuplicateDeleter/obj/Debug/netcoreapp2.1/C-Sharp-DuplicateDeleter.dll
+/Users/carolynn/dev/C-Sharp/C-Sharp-DuplicateDeleter/obj/Debug/netcoreapp2.1/C-Sharp-DuplicateDeleter.pdb
