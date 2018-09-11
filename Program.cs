@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace C_Sharp_DuplicateDeleter
 {
@@ -18,10 +19,14 @@ namespace C_Sharp_DuplicateDeleter
             // Console.WriteLine(String.Join(" ",exactDeleted));
 
             // Console.WriteLine(String.Join(" ", deleter.deleteMultiplesOfN(2)));
-            int [] array1 = {1,2,3,4};
-            int [] array2 = {5,6,7,8};
-            int [] merged = DuplicateDeleter.mergeArrays(array1,array2);
-            Console.WriteLine(String.Join(" ", merged));
+            // int [] array1 = {1,2,3,4};
+            // int [] array2 = {5,6,7,8};
+            // int [] merged = DuplicateDeleter.mergeArrays(array1,array2);
+            // Console.WriteLine(String.Join(" ", merged));
+            FibonacciFinder ff = new FibonacciFinder();
+            long answer = ff.findNextFibonacci(722);
+            List<long> sequence = ff.fibonacciSequence(43295);
+            Console.WriteLine(String.Join(", ",sequence));
         }
     }
 }
